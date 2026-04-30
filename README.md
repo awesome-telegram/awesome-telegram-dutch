@@ -17,3 +17,4 @@ Nederlandse Telegram-kanalen, groepen en bots.
 
 ## Telegram-bots
 
+- [Cyber Collector](https://t.me/cybercollectorbot) — Gratis Telegram-bot voor het downloaden van TikTok-video's (zonder watermerk), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Geen aanmelding, geen advertenties. [Website](https://cybercollector.hitkey.io)
